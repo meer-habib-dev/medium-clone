@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "@portabletext/react": "^1.0.4",
+    "react-hook-form": "6.9.4-beta.1",
+    "react-portable-text": "^0.4.3"
+  }
+}
